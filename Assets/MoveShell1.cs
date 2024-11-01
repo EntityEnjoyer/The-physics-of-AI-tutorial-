@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveShell : MonoBehaviour
+public class MoveShell1 : MonoBehaviour
 {
     float speed = 1.0f;
 
